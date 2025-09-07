@@ -2,33 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#subtitle: About PI
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Kunxiaojia (Tammy) Yuan</p>
+    <p>Assistant Professor</p>
+    <p>University of Houston</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Welcome to EcoDynamics AI Lab! <strong style="color:var(--global-theme-color,#2563eb);">We are hiring a postdoc and a PhD student!</strong> If you are interested in joining us, please see details at oppotunities, and contact Dr. Yuan at kyuan@central.uh.edu with your CV, transcript, and short statement of your research experiences and interest.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Lab's PI is Dr. Kunxiaojia (Tammy) Yuan, who is an assistant professor at [Department of Earth and Atmospheric Sciences, University of Houston](https://www.uh.edu/nsm/earth-atmospheric/). Previously, she was a postdoctoral scholar at the [Earth & Environmental Sciences Area, Lawrence Berkeley National Laboratory](https://eesa.lbl.gov/). 
+
+Our lab investigates understand how ecosystems respond to climate dynamics and disturbances (e.g., wildfire, deforestation, flooding) through carbon-water-energy cycles, ultimately contributing to more informed and sustainable ecosystem management and nature-based climate solutions. We utilize a range of tools, including interpretable artificial intelligence models, causal inference, Earth system models, remote sensing, and field measurements (e.g., eddy covariance, chamber, and isotope).
+
+
