@@ -7,3 +7,48 @@
 
 "Vision":
   color: "#009f36"
+
+Neurocomputing:
+  color: "#9CCC65"
+  url: "https://www.sciencedirect.com/journal/neurocomputing"
+
+
+PNAS Nexus:
+  color: "#FFB300"
+  url: "https://academic.oup.com/pnasnexus?login=false"
+
+ERL:
+  color: "#000080"	
+  url: "https://iopscience.iop.org/journal/1748-9326"
+
+Earth's Future:
+  color: "#FFC0CB"	
+  url: "https://agupubs.onlinelibrary.wiley.com/journal/23284277"
+
+
+Nature Climate Change:
+  color: "#2E8B57"	
+  url: "https://www.nature.com/nclimate/"
+
+
+GCB:
+  color: "#0097A7"	
+  url: "https://onlinelibrary.wiley.com/journal/13652486"
+
+AGU Advances:
+  color: "#1E90FF"	
+  url: "https://agupubs.onlinelibrary.wiley.com/journal/2576604x"
+
+AFM:
+  color: "#DC143C"	
+  url: "https://www.sciencedirect.com/journal/agricultural-and-forest-meteorology"
+
+GMD:
+  color: "#4B0082"	
+  url: "https://www.geoscientific-model-development.net/"
+
+IJGIS:
+  color: "#FFC0CB"	
+  url: "https://www.tandfonline.com/journals/tgis20"
+
+
