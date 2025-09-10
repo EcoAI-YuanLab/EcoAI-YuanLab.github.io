@@ -30,9 +30,11 @@ announcements:
 ---
 
 
-Welcome to EcoClimate AI Lab! <strong style="color:var(--global-theme-color,#2563eb);">We are hiring a postdoc and a PhD student!</strong> If you are interested in joining us, please see details at oppotunities, and contact Dr. Yuan at kyuan@central.uh.edu with your CV, transcript, and short statement of your research experiences and interest.
+Welcome to EcoClimate AI Lab! 
 
-Lab's PI is Dr. Kunxiaojia (Tammy) Yuan, who is an assistant professor at [Department of Earth and Atmospheric Sciences, University of Houston](https://www.uh.edu/nsm/earth-atmospheric/). Previously, she was a postdoctoral scholar at the [Earth & Environmental Sciences Area, Lawrence Berkeley National Laboratory](https://eesa.lbl.gov/). 
+📢**We are hiring a postdoc and a PhD student!**  If you are interested in joining us, please see details [here](https://ecoai-yuanlab.github.io/teaching/), and contact Dr. Yuan at kyuan@central.uh.edu with your CV, transcript, and short statement of your research experiences and interest.
+
+Lab's PI is Dr. Kunxiaojia (Tammy) Yuan, who is an assistant professor at **[Department of Earth and Atmospheric Sciences, University of Houston](https://www.uh.edu/nsm/earth-atmospheric/)**. Previously, she was a postdoctoral scholar at the **[Earth & Environmental Sciences Area, Lawrence Berkeley National Laboratory](https://eesa.lbl.gov/)**. 
 
 Our lab investigates how ecosystems respond to climate dynamics and disturbances (e.g., wildfire, deforestation, flooding) through carbon-water-energy cycles, ultimately contributing to more informed and sustainable ecosystem management and nature-based climate solutions. We utilize a range of tools, including interpretable artificial intelligence models, causal inference, Earth system models, remote sensing, and field measurements (e.g., eddy covariance, chamber, and isotope).
 

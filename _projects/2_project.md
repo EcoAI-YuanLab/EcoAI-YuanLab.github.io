@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Coastal Resiliency
+description: We monitor and analyze ecological and hydrologial dynamics of coastal ecosystems, to support more informed and sustainable coastal restoration and nature-based climate solutions.
+img: assets/img/Coastal.png
 importance: 2
-category: work
+category: Selected Projects
 giscus_comments: true
 ---
 

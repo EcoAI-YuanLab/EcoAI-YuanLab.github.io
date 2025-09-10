@@ -23,3 +23,45 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+
+
+/* ==== Custom overrides: keep badge text always white ==== */
+/* 作用于所有 badge（含链接的各种状态） */
+.badge,
+a.badge,
+.badge a,
+a.badge:link,
+a.badge:visited,
+a.badge:hover,
+a.badge:active,
+.badge a:link,
+.badge a:visited,
+.badge a:hover,
+.badge a:active {
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+/* 如果徽章里还有嵌套元素（如 <span>），一并强制为白色 */
+.badge * { color: #fff !important; }
+
+
+
+/* 全局基准字号，影响所有 rem */
+html {
+  font-size: 17px !important;  /* 默认大多数主题是16px */
+  line-height: 1.7;
+}
+
+// body {
+//   font-family: Arial, Helvetica, sans-serif !important;
+// }
+
+// body {
+//   font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+//   font-weight: 400;   /* 正文字体用正常字重 */
+// }
+// strong, b, h1, h2, h3, h4, h5, h6 {
+//   font-weight: 700;   /* 强制加粗 */
+// }

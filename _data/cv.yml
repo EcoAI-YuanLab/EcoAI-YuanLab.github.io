@@ -2,96 +2,92 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Kunxiaojia Yuan
+    - name: Preferred Name
+      value: Tammy
+    - name: Position
+      value: Assistant Professor
+    - name: Institution
+      value: Department of Earth and Atmospheric Sciences, University of Houston
+    - name: Email
+      value: kyuan@central.uh.edu
 
-- title: Education
+
+- title: "Appointments"
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Assistant Professor
+      institution: University of Houston
+      year: "2025.9–present"
+    - title: Affiliate Researcher
+      institution: Lawrence Berkeley National Lab
+      year: "2025.9–present"
+    - title: Postdoctoral Researcher
+      institution: Lawrence Berkeley National Lab
+      year: "2022.1–2025.8"
+    - title: Visiting Scholar
+      institution: University of Wisconsin–Madison
+      year: "2021.10–2022.1"
+    - title: AI Researcher (Intern)
+      institution: Google X
+      year: "2019.10–2020.3"
+    - title: Affiliate Researcher
+      institution: Lawrence Berkeley National Lab
+      year: "2018.10–2021.9"
 
-- title: Experience
+- title: "Education"
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Geographic Information Science
+      institution: Wuhan University
+      year: "2021"
+    - title: B.Eng. in Remote Sensing Science and Technology
+      institution: Wuhan University
+      year: "2016"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: "Teaching"
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Guest Lecture
+      institution: University of Wisconsin–Madison
+      year: "2024"
+      description: "ECOL711 Multivariate Analysis of Ecological and Community Data"
+    - title: Guest Lecture
+      institution: University of Wisconsin–Madison
+      year: "2023"
+      description: "ECOL711 Multivariate Analysis of Ecological and Community Data"
+    - title: Teaching Assistant
+      institution: Wuhan University
+      year: "2017"
+      description: "Principles & Applications of Remote Sensing"
+    - title: Teaching Assistant
+      institution: Wuhan University
+      year: "2017"
+      description: "Advanced Geographic Information Technology"
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: "Service"
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: "Convenor, EGU Session AS5/BG9 (2025)"
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - "Machine learning for Carbon Cycle Research"
+    - title: "Workshop Organizer (2025)"
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - "Bridging the Gap – Flux Data Meets Land Surface Models"
+    - title: "Session Chair & Convenor, AGU Session B41M/B43D (2024)"
+      items:
+        - "The Global Methane Budget and Advancing Understanding of Wetland Greenhouse Gas Emissions"
+    - title: "Reviewer"
+      items:
+        - "ICLR 2025 (top-tier ML conference)"
+    - title: "Committee Member"
+      items:
+        - "FLUXNET Early Career Scientist Network (2024–present)"
+        - "Community of 200+ young researchers from 50+ countries"
+    - title: "Workshop Organizer"
+      items:
+        - "AmeriFlux Early Career Networking Workshop (2024)"
+    - title: "Judge"
+      items:
+        - "AMS Student Presentation Competitions (2023–present)"
+        - "AGU OSPA (Outstanding Student Presentation Awards) (2022–present)"

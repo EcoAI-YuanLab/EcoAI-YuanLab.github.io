@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Wildfire modeling
+description: We develop process-based models and hybrid AI models for wildfire studies. 
+img: assets/img/fire_2.png
 importance: 3
-category: fun
+category: Selected Projects
 ---
 
 Every project has a beautiful feature showcase page.

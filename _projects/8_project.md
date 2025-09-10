@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
+title: Land-Atmosphere Interactions
+description: We investigate ecosystem biophysical processes in water and energy cycles that affect temperature and water availability, and how they change under disturbances (e.g., deforestation, land cover change).
+img: assets/img/BGP_4.png
 importance: 2
-category: work
+category: Selected Projects
 giscus_comments: true
 ---
 
