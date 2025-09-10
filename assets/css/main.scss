@@ -54,6 +54,35 @@ html {
   line-height: 1.7;
 }
 
+// /* People page: small circular avatars */
+// .profiles .profile img,
+// .profile img {
+//   width: 140px;         /* 调小头像：可改 100/140 */
+//   height: 140px;
+//   border-radius: 100%;   /* 圆形 */
+//   object-fit: cover;    /* 不变形，居中裁切 */
+//   display: block;
+// }
+
+// /* 让文字与头像对齐更紧凑一些（可选） */
+// .profiles .profile .more-info p {
+//   margin: 0 0 4px 0;
+//   line-height: 1.4;
+// }
+
+// /* 移动端稍微缩小（可选） */
+// @media (max-width: 576px) {
+//   .profiles .profile img { width: 96px; height: 96px; }
+// }
+
+
+// /* 兜底：pub 标签最少要有底色和白字，避免变成白块 */
+// .publications .abbr abbr {
+//   background-color: #003366 !important;  /* 你的主色 */
+//   color: #fff !important;
+// }
+
+
 // body {
 //   font-family: Arial, Helvetica, sans-serif !important;
 // }

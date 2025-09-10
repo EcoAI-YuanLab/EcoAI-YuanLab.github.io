@@ -5,7 +5,7 @@ description: We develop interpretable AI, knowlegde/physical guided AI, and caus
 img: assets/img/AI.png
 importance: 1
 category: Selected Projects
-related_publications: true
+related_publications: false
 ---
 
 Earth system models driven by domain-knowledge are physically interpretable, but generally exhibit lower accuracy than machine learning models due to limited observational constraints and substantial uncertainties in model structures and parameterizations. Data-driven machine learning models generally have higher accuracy but are black-boxes with high risk of overfitting and low confidence for future climate projections. Therefore, I focus on developing and applying advanced causality inference approaches to understand and reduce uncertainties in Earth system models, and using inferred causal relationships and domain knowledge to inform and improve machine/deep learning models. 
@@ -22,4 +22,4 @@ Earth system models driven by domain-knowledge are physically interpretable, but
 </div>
 
 ## Related publications:
-{% bibliography --file wetland_refs.bib %}
+{% bibliography --file AI.bib %}

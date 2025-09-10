@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wetland ecological dynamics
-description: We investigate dynamics of wetland biogeochemical cycles under global change
+description: We investigate dynamics of wetland biogeochemical cycles under global change. 
 img: assets/img/NCC.png
 importance: 1
 category: Selected Projects

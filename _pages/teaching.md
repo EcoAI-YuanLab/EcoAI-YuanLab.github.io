@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Oppotunities
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 I am seeking a PhD student and a Postdoc to join my lab at Department of Earth and Atmospheric Sciences, University of Houston. Our lab investigates ecosystem-climate interactions and their changes under disturbances (e.g., flood, wildfire, and land cover changes). Students and researchers interested in AI and environmental data science, remote sensing, land-atmosphere interaction, disturbance ecology, and climate sciences are welcome to apply. You will join a collaborative and interdisciplinary team, and have opportunities to work with our close collaborators in UH, Lawrence Berkeley National Lab, Stanford University, and UT Austin. 

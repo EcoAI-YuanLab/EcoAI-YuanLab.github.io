@@ -52,3 +52,18 @@ IJGIS:
   url: "https://www.tandfonline.com/journals/tgis20"
 
 
+US Patent:
+  color: "#003366"
+  url: "https://patents.google.com/"
+
+US patent:
+  color: "#003366"
+  url: "https://patents.google.com/"
+
+"Earth's Future":
+  color: "#1565c0"
+  url: "https://agupubs.onlinelibrary.wiley.com/journal/23284277"
+
+"Earth’s Future":   # 注意这里是弯引号
+  color: "#1565c0"
+  url: "https://agupubs.onlinelibrary.wiley.com/journal/23284277"
