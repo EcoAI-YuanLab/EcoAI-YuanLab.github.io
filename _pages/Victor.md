@@ -1,0 +1,3 @@
+Victor Chen is an undergraduate student in the Department of Computer Science at Stanford University. In 2024, he was supervised by Dr. Yuan during the LBNL summer student internship program. 
+
+As part of the project, he designed and developed a spatiotemporal data visualization web application from scratch, which has since been adopted as a lab-wide template. He also implemented and deployed a global wetland CH₄ emissions visualizer, featuring an interactive, rotatable, 3D globe.
