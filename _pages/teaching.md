@@ -38,3 +38,12 @@ Preferred qualifications:
 
 #### How to apply
 If you are interested, please email Dr. Yuan at kyuan@central.uh.edu with the following materials: (1) CV with contact information for 2-3 references. (2) A one-to-two-page cover letter outlining your research experience and your research interest.
+
+
+#### About UH
+The department of Earth & Atmospheric Sciences (EAS) at the University of Houston is a large (>30 tenured and tenure-track faculty), well-funded department within an R1 institution. Students and postdocs have impressive access to internships, networking events, and ultimately have a high rate of job placement. Houston is a large, metropolitan city that boasts significant attractions in food, museums, and art, and is one of the most diverse cities in the United States. Despite rapid growth, Houston remains one of the most affordable major cities in the U.S., offering a high quality of life.
+
+
+<div style="text-align:center; margin-top:24px;">
+  <img src="/assets/img/UH.jpg" alt="UH campus" style="max-width:100%; border-radius:12px;">
+</div>

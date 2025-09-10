@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Kunxiaojia Yuan is an Assistant Professor in the Department of Earth and Atmospheric Sciences at the University of Houston. Previously, she was a Postdoctoral Scholar in the Climate & Ecosystem Sciences Division at Lawrence Berkeley National Laboratory. She holds a Ph.D. in Geographic Information Science and a B.Eng. in Remote Sensing from Wuhan University. Dr. Yuan’s research interests include land–atmosphere interactions, coastal resiliency, wildfire modeling, interpretable AI, causal inference, remote sensing, and Earth system modeling. More details are available in her CV.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of work, she enjoys exploring scenic Bay Area trails, experimenting in the kitchen, and spending quality time with family and friends.

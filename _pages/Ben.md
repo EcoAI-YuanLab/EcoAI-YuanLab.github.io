@@ -1,0 +1,3 @@
+Benjamin Yan is a master student in the Department of Computer Science at Stanford University. In 2024, he was supervised by Dr. Yuan during the LBNL summer student internship program. His research focuses on developing advanced AI models for predicting freshwater wetland CH₄ emissions.
+
+As one of the outcomes of this project, Ben presented his work “Attention-Based Transformer Architectures for Multi-Site Global Wetland CH₄ Emissions Modeling and Identifying Key Ecosystem Drivers” at AGU.

@@ -1,14 +1,14 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Kunxiaojia Yuan
-    - name: Preferred Name
-      value: Tammy
+    - name: Name
+      value: Kunxiaojia (Tammy) Yuan
     - name: Position
       value: Assistant Professor
+    - name: Department
+      value: Department of Earth and Atmospheric Sciences
     - name: Institution
-      value: Department of Earth and Atmospheric Sciences, University of Houston
+      value: University of Houston
     - name: Email
       value: kyuan@central.uh.edu
 

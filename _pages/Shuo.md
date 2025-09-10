@@ -1,0 +1,3 @@
+Shuo Chen is a Ph.D. candidate in the Department of Earth, Atmospheric, and Planetary Sciences at Purdue University. In 2024, she was supervised by Dr. Yuan during the LBNL summer student internship program. Her research focuses on wetland CH₄ cycles, machine learning, and process-based models.
+
+Working with Dr. Yuan, she published the paper ['Hysteretic temperature sensitivity in wetland CH4 emission modeling' ](https://www.sciencedirect.com/science/article/pii/S0168192325003247) in Agricultural and Forest Meteorology, which is one of outcomes of the internship project.
