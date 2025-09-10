@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-research",
+          title: "Research",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -38,15 +38,15 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          title: "CV",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-oppotunities",
           title: "Oppotunities",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -481,14 +481,14 @@ ninja.data = [{
             },},{id: "news-our-paper-hysteretic-temperature-sensitivity-in-wetland-ch-emission-modeling-has-been-published-in-agricultural-and-forest-meteorology-congratulations-to-first-author-shuo-chen-whom-i-supervised-through-the-student-intern-program-at-lawrence-berkeley-national-laboratory-lbnl-this-study-is-one-of-the-outcomes-of-that-program",
           title: 'Our paper “Hysteretic temperature sensitivity in wetland CH₄ emission modeling” has been published...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-advanced-ai-for-earth-science-studies",
+          title: 'Advanced AI for Earth Science Studies',
+          description: "We develop interpretable AI, knowlegde/physical guided AI, and causal inference approaches",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-coastal-resiliency",
+          title: 'Coastal Resiliency',
+          description: "We monitor and analyze ecological and hydrologial dynamics of coastal ecosystems, to support more informed and sustainable coastal restoration and nature-based climate solutions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
@@ -501,9 +501,9 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-wildfire-modeling",
+          title: 'Wildfire modeling',
+          description: "We develop process-based models and hybrid AI models for wildfire studies.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
@@ -511,14 +511,14 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-wetland-ecological-dynamics",
+          title: 'Wetland ecological dynamics',
+          description: "We investigate dynamics of wetland biogeochemical cycles under global change",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-land-atmosphere-interactions",
+          title: 'Land-Atmosphere Interactions',
+          description: "We investigate ecosystem biophysical processes in water and energy cycles that affect temperature and water availability, and how they change under disturbances (e.g., deforestation, land cover change).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
