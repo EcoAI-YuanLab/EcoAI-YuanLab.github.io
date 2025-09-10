@@ -65,7 +65,7 @@ photos:
     alt: With Methane Friends   
     caption: With Methane Friends   
 
-  - src: /assets/img/gallery/stanford.jpg
+  - src: /assets/img/gallery/Stanford.jpg
     alt: Stanford corridor
     caption: At Stanford
   - src: /assets/img/gallery/Yosemite1.jpg
