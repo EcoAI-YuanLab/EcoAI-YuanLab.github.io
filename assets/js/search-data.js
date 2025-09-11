@@ -455,14 +455,12 @@ ninja.data = [{
           section: "News",},{id: "news-the-workshop-we-organized-bridging-the-gap-flux-data-meets-land-surface-models-was-successfully-held-on-august-6-8-berkeley",
           title: 'The workshop we organized, “Bridging the Gap – Flux Data Meets Land Surface...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/news250809/";
-            },},{id: "news-our-paper-hysteretic-temperature-sensitivity-in-wetland-ch-emission-modeling-has-been-published-in-agricultural-and-forest-meteorology-congratulations-to-first-author-shuo-chen-whom-i-supervised-through-the-student-intern-program-at-lawrence-berkeley-national-laboratory-lbnl-this-study-is-one-of-the-outcomes-of-that-program",
+          section: "News",},{id: "news-our-paper-hysteretic-temperature-sensitivity-in-wetland-ch-emission-modeling-has-been-published-in-agricultural-and-forest-meteorology-congratulations-to-first-author-shuo-chen-whom-i-supervised-through-the-student-intern-program-at-lawrence-berkeley-national-laboratory-lbnl-this-study-is-one-of-the-outcomes-of-that-program",
           title: 'Our paper “Hysteretic temperature sensitivity in wetland CH₄ emission modeling” has been published...',
           description: "",
           section: "News",},{id: "projects-advanced-ai-for-earth-science-studies",
           title: 'Advanced AI for Earth Science Studies',
-          description: "We develop interpretable AI, knowlegde/physical guided AI, and causal inference approaches",
+          description: "We develop interpretable AI and causal inference approaches to understand the complex Earth system.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-coastal-resiliency",
@@ -490,14 +488,14 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-wetland-ecological-dynamics",
-          title: 'Wetland ecological dynamics',
-          description: "We investigate dynamics of wetland biogeochemical cycles under global change.",
+            },},{id: "projects-wetland-carbon-cycle",
+          title: 'Wetland Carbon Cycle',
+          description: "We investigate wetland CO2 and CH4 dynamics at site, regional, and global scales.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-land-atmosphere-interactions",
           title: 'Land-Atmosphere Interactions',
-          description: "We investigate ecosystem biophysical processes in water and energy cycles that affect temperature and water availability, and how they change under disturbances (e.g., deforestation, land cover change).",
+          description: "We study biophysical processes in water and energy cycles that affect temperature and water availability, and how they change under disturbances (e.g., deforestation, land cover change).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
