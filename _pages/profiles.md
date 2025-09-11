@@ -14,11 +14,19 @@ profiles:
     content: about_einstein.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p class="person-name">Kunxiaojia Yuan</p>
+      <p class="person-name">Kunxiaojia (Tammy) Yuan<br>
+
+
+
  # 插入一个标题
   - align: left
     more_info: >
-      <p class="ad-name">👉 We are hiring postdoc and PhD students! Contact Dr. Yuan for details.</p>
+      <p class="ad-name">
+        <a href="https://ecoai-yuanlab.github.io/teaching/" target="_blank">
+          👉 We are recruiting PhD students and postdocs! Click here for details.
+        </a>
+      </p>
+
 
  # 插入一个标题
   - align: left
@@ -30,21 +38,25 @@ profiles:
     content: Shuo.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p class="person-name">Shuo Chen</p>
+      <p class="person-name">Shuo Chen<br>
+
+      
 
   - align: left
     image: Ben.jpg
     content: Ben.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p class="person-name">Benjamin Yan</p>
+      <p class="person-name">Benjamin Yan<br>
+
 
   - align: left
     image: Victor1.jpg
     content: Victor.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p class="person-name">Victor Chen</p>
+      <p class="person-name">Victor Chen<br>
+
 ---
 
 <style>
@@ -86,3 +98,4 @@ profiles:
   margin-bottom: 0;
 }
 </style>
+

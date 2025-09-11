@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Wetland ecological dynamics
-description: We investigate dynamics of wetland biogeochemical cycles under global change. 
-img: assets/img/NCC.png
+title: Wetland Carbon Cycle
+description: We investigate wetland CO2 and CH4 dynamics at site, regional, and global scales. 
+img: assets/img/NCC-4.png
 importance: 1
 category: Selected Projects
 related_publications: false
@@ -17,7 +17,7 @@ Wetlands are the largest natural source of methane (CH4), the second most import
     </div>
 </div>
 <div class="caption">
-    Our study published in Nature Climate Changer, featured as the cover page.
+    Our study "Boreal–Arctic wetland methane emissions modulated by warming and vegetation activity" published in Nature Climate Change, featured as the cover page.
 </div>
 
 ## Related publications:

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Land-Atmosphere Interactions
-description: We investigate ecosystem biophysical processes in water and energy cycles that affect temperature and water availability, and how they change under disturbances (e.g., deforestation, land cover change).
-img: assets/img/BGP_4.png
+description: We study biophysical processes in water and energy cycles that affect temperature and water availability, and how they change under disturbances (e.g., deforestation, land cover change).
+img: assets/img/BGP-5.jpg
 importance: 2
 category: Selected Projects
 giscus_comments: false
 related_publications: false
 ---
 
-​Global land dissipates approximately 12-35% and 50-58% of its absorbed solar radiation into sensible heat and latent heat fluxes, respectively. These fluxes play critical roles in regulating surface and atmospheric temperatures, as well as water availability, thereby influencing climate dynamics and ecosystem health. A better understanding of biogeophysical processes affecting ecosystem energy-water-carbon nexus is essential for enhancing earth system projections and guiding effective nature-based solutions. I investigate how abiotic and biotic factors, and disturbances (e.g., land-use and land-cover change, deforestation, drought, wildfire)  reshape land surface energy partitioning and ecosystem functioning using causal inference, machine learning, Earth system models, ​and field measurements.
+​Global land dissipates approximately 12-35% and 50-58% of its absorbed solar radiation into sensible heat and latent heat fluxes, respectively. These fluxes play critical roles in regulating surface and atmospheric temperatures, as well as water availability, thereby influencing climate dynamics and ecosystem health. A better understanding of biogeophysical processes affecting ecosystem energy-water-carbon nexus is essential for enhancing earth system projections and guiding effective nature-based solutions. We investigate how abiotic and biotic factors, and disturbances (e.g., land-use and land-cover change, deforestation, drought, wildfire)  reshape land surface energy partitioning and ecosystem functioning using causal inference, machine learning, Earth system models, ​and field measurements.
 
 
 <div class="row">
@@ -18,7 +18,7 @@ related_publications: false
     </div>
 </div>
 <div class="caption">
-    Conceptual diagram of important biophysical processes in ecosystems
+    Conceptual diagram of important biophysical processes
 </div>
 
 ## Related publications:

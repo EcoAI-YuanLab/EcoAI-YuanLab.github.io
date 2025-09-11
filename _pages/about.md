@@ -9,14 +9,29 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-family: Georgia, serif; font-size: 16px; color: #003366;">
-      Kunxiaojia (Tammy) Yuan
+    <p style="font-family: Georgia, serif; font-size: 16px; color: var(--global-theme-color);">
+      Lab PI: 
+    </p>
+    <p style="font-family: Georgia, serif; font-size: 15px; color: #555;">
+      Kunxiaojia Yuan
     </p>
     <p style="font-family: Georgia, serif; font-size: 15px; color: #555;">
       Assistant Professor
     </p>
     <p style="font-family: Georgia, serif; font-size: 15px; color: #555;">
       University of Houston
+    </p>
+
+
+    <!-- 一排社交图标 -->
+    <p style="margin-top:8px; font-size: 28px;">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kyuan@central.uh.edu" target="_blank" rel="noopener">
+        <i class="fas fa-envelope"></i>
+      </a>
+      <a href="https://scholar.google.com/citations?user=XiLO06sAAAAJ&hl=en&oi=ao" target="_blank"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://x.com/KunxiaojiaYuan" target="_blank"><i class="fab fa-x-twitter"></i></a>
+      <a href="https://www.linkedin.com/in/kunxiaojia-tammy-yuan-1550b01aa/" target="_blank"><i class="fab fa-linkedin"></i></a>
+
     </p>
 
 
@@ -30,12 +45,16 @@ announcements:
 ---
 
 
-Welcome to EcoClimate AI Lab! 
+### Welcome to EcoClimate AI Lab! 
 
-📢**We are hiring a postdoc and a PhD student!**  If you are interested in joining us, please see details [here](https://ecoai-yuanlab.github.io/teaching/), and contact Dr. Yuan at kyuan@central.uh.edu with your CV, transcript, and short statement of your research experiences and interest.
+📢📢**We are recruiting a PhD student and a postdoc!**  If you are interested in joining us, please **[click here](https://ecoai-yuanlab.github.io/teaching/)** for details, and contact Dr. Kunxiaojia (Tammy) Yuan at <a href="mailto:kyuan@central.uh.edu" class="email-link">kyuan@central.uh.edu</a> with your CV, transcript, and a brief statement of your research experience and interests.
 
-Lab's PI is Dr. Kunxiaojia (Tammy) Yuan, who is an assistant professor at **[Department of Earth and Atmospheric Sciences, University of Houston](https://www.uh.edu/nsm/earth-atmospheric/)**. Previously, she was a postdoctoral scholar at the **[Earth & Environmental Sciences Area, Lawrence Berkeley National Laboratory](https://eesa.lbl.gov/)**. 
+### About the Lab
 
-Our lab investigates how ecosystems respond to climate dynamics and disturbances (e.g., wildfire, deforestation, flooding) through carbon-water-energy cycles, ultimately contributing to more informed and sustainable ecosystem management and nature-based climate solutions. We utilize a range of tools, including interpretable artificial intelligence models, causal inference, Earth system models, remote sensing, and field measurements (e.g., eddy covariance, chamber, and isotope).
+EcoClimate AI Lab is directed by Dr. Kunxiaojia (Tammy) Yuan, who is an Assistant Professor in the [Department of Earth and Atmospheric Sciences, at University of Houston](https://www.uh.edu/nsm/earth-atmospheric/). Previously, Tammy was a postdoc at the [Earth & Environmental Sciences Area, Lawrence Berkeley National Laboratory](https://eesa.lbl.gov/). 
 
+We study how ecosystem carbon–water–energy cycles respond to climate dynamics and disturbances (e.g., wildfire, deforestation, flooding), with a particular focus on wetland and forest ecosystems. Our goal is to better maintain ecosystem health, assess ecosystem risks, and advance sustainable management and nature-based climate solutions. We apply a range of tools, including advanced machine/deep learning, causal inference, Earth system models, remote sensing, and field measurements (e.g., eddy covariance, chamber, and isotope).
+
+
+<hr style="margin: 40px 0 20px 0; border: 0; border-top: 2px solid #ccc;" />
 
