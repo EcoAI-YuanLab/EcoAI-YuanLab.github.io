@@ -53,7 +53,7 @@ announcements:
 
 EcoClimate AI Lab is directed by Dr. Kunxiaojia (Tammy) Yuan, who is an Assistant Professor in the [Department of Earth and Atmospheric Sciences, at University of Houston](https://www.uh.edu/nsm/earth-atmospheric/). Previously, Tammy was a postdoc at the [Earth & Environmental Sciences Area, Lawrence Berkeley National Laboratory](https://eesa.lbl.gov/). 
 
-We study how ecosystem carbon–water–energy cycles respond to climate dynamics and disturbances (e.g., wildfire, deforestation, flooding), with a particular focus on wetland and forest ecosystems. Our goal is to better maintain ecosystem health, assess ecosystem risks, and advance sustainable management and nature-based climate solutions. We apply a range of tools, including advanced machine/deep learning, causal inference, Earth system models, remote sensing, and field measurements (e.g., eddy covariance, chamber, and isotope).
+We study how ecosystems respond to climate dynamics and disturbances (e.g., wildfire, deforestation, flooding) through carbon-water-energy nexus, with a particular focus on wetland and forest ecosystems. Our goal is to improve understanding of ecosystem health, assess ecosystem risks, and advance sustainable management and nature-based climate solutions. To achieve this, we use a range of tools, including advanced machine and deep learning, causal inference, Earth system models, remote sensing, and field measurements (e.g., eddy covariance, chambers, and isotopes).
 
 
 <hr style="margin: 40px 0 20px 0; border: 0; border-top: 2px solid #ccc;" />
