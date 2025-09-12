@@ -99,3 +99,20 @@ profiles:
 }
 </style>
 
+
+<style>
+  /* 只影响本页的个人头像 */
+  .profile img {
+    max-width: 300px;   /* 桌面端最大宽度 */
+    width: 90%;         /* 再保险地限制一下相对宽度 */
+    height: auto;
+  }
+  /* 手机端更小一点 */
+  @media (max-width: 768px) {
+    .profile img {
+      max-width: 160px;
+      width: 70%;
+    }
+  }
+</style>
+

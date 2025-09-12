@@ -12,13 +12,13 @@ profile:
     <p style="font-family: Georgia, serif; font-size: 16px; color: var(--global-theme-color);">
       Lab PI: 
     </p>
-    <p style="font-family: Georgia, serif; font-size: 15px; color: #555;">
+    <p style="font-family: Georgia, serif; font-size: 15px; ">
       Kunxiaojia Yuan
     </p>
-    <p style="font-family: Georgia, serif; font-size: 15px; color: #555;">
+    <p style="font-family: Georgia, serif; font-size: 15px; ">
       Assistant Professor
     </p>
-    <p style="font-family: Georgia, serif; font-size: 15px; color: #555;">
+    <p style="font-family: Georgia, serif; font-size: 15px; ">
       University of Houston
     </p>
 
@@ -75,11 +75,5 @@ We study how ecosystems respond to climate dynamics and disturbances (e.g., wild
 </style>
 
 
-<style>
-  /* 仅深色模式生效 */
-  @media (prefers-color-scheme: dark) {
-    .profile .name-meta { color: #fff !important; }
-  }
-</style>
 
 
