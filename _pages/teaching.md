@@ -50,7 +50,7 @@ We welcome research ideas beyond these examples, as long as they align with the 
     <li>Cover letter (1–2 pages) outlining your research experience, skills, and future interests</li>
     <li>Contact information for three references. </li>
 </ul>
-Please indicate your name and the position you are applying for in the email subject line (e.g., [Your name] - [PhD Application]).
+Please indicate your name and the position you are applying for in the email subject line (e.g., [Your name] - [PhD or postdoc Application]).
 Applications received by **November 9, 2025**, will receive full consideration. Review will continue until the position is filled. Competitive applicants will be guided through the formal application process via the University of Houston system.
 
 

@@ -3,7 +3,7 @@ layout: page
 title: Wetland Carbon Cycle
 description: We investigate wetland CO2 and CH4 dynamics at site, regional, and global scales. 
 img: assets/img/NCC-4.png
-importance: 1
+importance: 0
 category: Selected Projects
 related_publications: false
 ---

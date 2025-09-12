@@ -3,7 +3,7 @@ layout: page
 title: Wildfire modeling
 description: We develop process-based models and hybrid AI models for wildfire studies. 
 img: assets/img/Fire_combine.png
-importance: 3
+importance: 4
 category: Selected Projects
 related_publications: false
 ---

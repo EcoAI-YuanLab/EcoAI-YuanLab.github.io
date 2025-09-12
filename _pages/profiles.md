@@ -14,9 +14,10 @@ profiles:
     content: about_einstein.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p class="person-name">Kunxiaojia (Tammy) Yuan<br>
-
-
+      <p style="font-family: Georgia, serif; font-size: 18px; ">
+        Kunxiaojia (Tammy) Yuan
+      </p>
+ 
 
  # 插入一个标题
   - align: left
@@ -38,7 +39,9 @@ profiles:
     content: Shuo.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p class="person-name">Shuo Chen<br>
+      <p style="font-family: Georgia, serif; font-size: 18px; ">
+        Shuo Chen
+      </p>
 
       
 
@@ -47,7 +50,9 @@ profiles:
     content: Ben.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p class="person-name">Benjamin Yan<br>
+      <p style="font-family: Georgia, serif; font-size: 18px; ">
+        Benjamin Yan
+      </p>
 
 
   - align: left
@@ -55,7 +60,10 @@ profiles:
     content: Victor.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p class="person-name">Victor Chen<br>
+      <p style="font-family: Georgia, serif; font-size: 18px; ">
+        Victor Chen
+      </p>
+
 
 ---
 
