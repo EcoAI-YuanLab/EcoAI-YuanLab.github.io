@@ -50,12 +50,12 @@ We welcome research ideas beyond these examples, as long as they align with the 
     <li>Cover letter (1–2 pages) outlining your research experience, skills, and future interests</li>
     <li>Contact information for three references. </li>
 </ul>
-Please indicate your name and the position you are applying for in the email subject line (e.g., [Your name] - [PhD or postdoc Application]).
+Please indicate your name and the position you are applying for in the email subject line (e.g., [Your name] - [PhD or Postdoc Application]).
 Applications received by **November 9, 2025**, will receive full consideration. Review will continue until the position is filled. Competitive applicants will be guided through the formal application process via the University of Houston system.
 
 
 #### 🏫 **About UH**
-The [Department of Earth & Atmospheric Sciences](https://uh.edu/nsm/earth-atmospheric/) at the [University of Houston](https://uh.edu/) is a large, well-funded department within a top-tier **R1 research institution**. Students and postdocs benefit from outstanding research resources, internship opportunities, and professional networking opportunities, which lead to a strong job placement record. Houston, the fourth-largest city in the United States, is a vibrant, diverse metropolitan area famous for its world-class museums and arts, championship sports teams, and an exceptional food scene. Despite its rapid growth, Houston remains one of the most affordable major cities in the U.S., offering an excellent quality of life.
+The [Department of Earth & Atmospheric Sciences](https://uh.edu/nsm/earth-atmospheric/) at the [University of Houston](https://uh.edu/) is a large, well-funded department within a top-tier R1 research institution. Students and postdocs benefit from outstanding research resources, internship opportunities, and professional networking opportunities, which lead to a strong job placement record. Houston, the fourth-largest city in the United States, is a vibrant, diverse metropolitan area famous for its world-class museums and arts, championship sports teams, and an exceptional food scene. Despite its rapid growth, Houston remains one of the most affordable major cities in the U.S., offering an excellent quality of life.
 
 
 <div style="text-align:center; margin-top:24px;">
