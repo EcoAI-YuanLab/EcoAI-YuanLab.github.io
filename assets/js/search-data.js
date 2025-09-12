@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/Research/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -37,19 +37,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-oppotunities",
-          title: "Oppotunities",
+        },{id: "nav-opportunities",
+          title: "Opportunities",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/Opportunities/";
           },
         },{id: "nav-gallery",
           title: "Gallery",
           description: "Beautiful memories along our research journey!",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/Gallery/";
           },
         },{id: "post-a-post-with-plotly-js",
         
