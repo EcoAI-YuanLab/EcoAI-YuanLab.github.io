@@ -22,7 +22,7 @@ profiles:
   - align: left
     more_info: >
       <p class="ad-name">
-        <a href="https://ecoai-yuanlab.github.io/teaching/" target="_blank">
+        <a href="https://ecoai-yuanlab.github.io/Opportunities/" target="_blank">
           We are recruiting Ph.D. students and postdocs! Click here for details.
         </a>
       </p>
@@ -116,3 +116,15 @@ profiles:
   }
 </style>
 
+
+<style>
+  /* 深色模式下把名字和分组标题改成白色 */
+  @media (prefers-color-scheme: dark) {
+    .person-name,
+    .Title-name { color: #fff !important; }
+  }
+
+  /* 若你的主题用 data-theme 切换暗色，也一并兼容 */
+  :root[data-theme="dark"] .person-name,
+  :root[data-theme="dark"] .Title-name { color: #fff !important; }
+</style>
