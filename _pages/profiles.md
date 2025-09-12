@@ -23,7 +23,7 @@ profiles:
     more_info: >
       <p class="ad-name">
         <a href="https://ecoai-yuanlab.github.io/teaching/" target="_blank">
-          👉 We are recruiting PhD students and postdocs! Click here for details.
+          We are recruiting Ph.D. students and postdocs! Click here for details.
         </a>
       </p>
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /Gallery/
 title: Gallery
 description: Beautiful memories along our research journey!
 nav: true

@@ -47,14 +47,39 @@ announcements:
 
 ### Welcome to EcoClimate AI Lab! 
 
-📢📢**We are recruiting a PhD student and a postdoc!**  If you are interested in joining us, please **[click here](https://ecoai-yuanlab.github.io/teaching/)** for details, and contact Dr. Kunxiaojia (Tammy) Yuan at <a href="mailto:kyuan@central.uh.edu" class="email-link">kyuan@central.uh.edu</a> with your CV, transcript, and a brief statement of your research experience and interests.
+📢📢**We are recruiting a Ph.D. student and a postdoc!**  If you are interested in joining us, please **[click here](https://ecoai-yuanlab.github.io/teaching/)** for details, and contact Dr. Kunxiaojia (Tammy) Yuan at <u>kyuan@central.uh.edu</u> with your CV, transcript, and a brief statement of your research experience and interests.
 
 ### About the Lab
 
-EcoClimate AI Lab is directed by Dr. Kunxiaojia (Tammy) Yuan, who is an Assistant Professor in the [Department of Earth and Atmospheric Sciences, at University of Houston](https://www.uh.edu/nsm/earth-atmospheric/). Previously, Tammy was a postdoc at the [Earth & Environmental Sciences Area, Lawrence Berkeley National Laboratory](https://eesa.lbl.gov/). 
+EcoClimate AI Lab is led by Dr. Kunxiaojia (Tammy) Yuan, who is an Assistant Professor in the [Department of Earth and Atmospheric Sciences, at University of Houston](https://www.uh.edu/nsm/earth-atmospheric/). Previously, Tammy was a postdoc at the [Earth & Environmental Sciences Area, Lawrence Berkeley National Laboratory](https://eesa.lbl.gov/). 
 
-We study how ecosystems respond to climate dynamics and disturbances (e.g., wildfire, deforestation, flooding) through carbon-water-energy nexus, with a particular focus on wetland and forest ecosystems. Our goal is to improve understanding of ecosystem health, assess ecosystem risks, and advance sustainable management and nature-based climate solutions. To achieve this, we use a range of tools, including advanced machine and deep learning, causal inference, Earth system models, remote sensing, and field measurements (e.g., eddy covariance, chambers, and isotopes).
+We study how ecosystems respond to climate dynamics and disturbances (e.g., wildfire, deforestation, flooding) through carbon-water-energy nexus, with a particular focus on wetland and forest ecosystems. Our goal is to assess ecological and climate risks, and advance nature-based solutions to enhance the benefits of ecosystem services. To achieve this, we use a range of tools, including advanced machine and deep learning, causal inference, Earth system models, remote sensing, and field measurements (e.g., eddy covariance, chambers, and isotopes).
 
 
-<hr style="margin: 40px 0 20px 0; border: 0; border-top: 2px solid #ccc;" />
+<hr style="margin: 30px 0 20px 0; border: 0; border-top: 2px solid #ccc;" />
+
+<style>
+  /* 只影响本页的个人头像 */
+  .profile img {
+    max-width: 350px;   /* 桌面端最大宽度 */
+    width: 90%;         /* 再保险地限制一下相对宽度 */
+    height: auto;
+  }
+  /* 手机端更小一点 */
+  @media (max-width: 768px) {
+    .profile img {
+      max-width: 160px;
+      width: 70%;
+    }
+  }
+</style>
+
+
+<style>
+  /* 仅深色模式生效 */
+  @media (prefers-color-scheme: dark) {
+    .profile .name-meta { color: #fff !important; }
+  }
+</style>
+
 
