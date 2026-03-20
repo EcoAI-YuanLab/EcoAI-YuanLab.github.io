@@ -19,7 +19,7 @@
     - title: Assistant Professor
       institution: University of Houston
       year: "2025.9–present"
-    - title: Affiliate Researcher
+    - title: Affiliate Faculty
       institution: Lawrence Berkeley National Lab
       year: "2025.9–present"
     - title: Postdoctoral Researcher
@@ -48,6 +48,10 @@
 - title: "Teaching"
   type: time_table
   contents:
+    - title: Instructor
+      institution: University of Houston
+      year: "2026"
+      description: "GEO4397/6397 Land-Atmosphere interactions: From Soil to Sky"
     - title: Guest Lecture
       institution: University of Wisconsin–Madison
       year: "2024"
@@ -68,13 +72,16 @@
 - title: "Service"
   type: nested_list
   contents:
-    - title: "Convenor, EGU Session AS5/BG9 (2025)"
+    - title: "Session Chair & Convenor, AGU Session B51P & B52D (2025)"
+      items:
+      - "Warming-Induced Emissions: Integrating Models and Observations to Advance Understanding of Greenhouse Gas Fluxes of Natural Systems and Climate Feedbacks"
+    - title: "Convenor, EGU Session AS5 & BG9 (2025)"
       items:
         - "Machine learning for Carbon Cycle Research"
     - title: "Workshop Organizer (2025)"
       items:
         - "Bridging the Gap – Flux Data Meets Land Surface Models"
-    - title: "Session Chair & Convenor, AGU Session B41M/B43D (2024)"
+    - title: "Session Chair & Convenor, AGU Session B41M & B43D (2024)"
       items:
         - "The Global Methane Budget and Advancing Understanding of Wetland Greenhouse Gas Emissions"
     - title: "Reviewer"

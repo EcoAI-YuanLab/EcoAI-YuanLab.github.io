@@ -40,7 +40,7 @@ AGU Advances:
   url: "https://agupubs.onlinelibrary.wiley.com/journal/2576604x"
 
 AFM:
-  color: "#DC143C"	
+  color: "#e91e63"	
   url: "https://www.sciencedirect.com/journal/agricultural-and-forest-meteorology"
 
 GMD:
@@ -67,3 +67,8 @@ US patent:
 "Earth’s Future":   # 注意这里是弯引号
   color: "#1565c0"
   url: "https://agupubs.onlinelibrary.wiley.com/journal/23284277"
+
+
+"Science":   # 注意这里是弯引号
+  color: "#ff0000"
+  url: "https://www.science.org/journal/science"

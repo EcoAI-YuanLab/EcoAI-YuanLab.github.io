@@ -64,8 +64,21 @@ profiles:
         Victor Chen
       </p>
 
+ # 插入一个标题
+  - align: left
+    content: Commitee.md
+    more_info: >
+      <p class="Title-name">PhD Committee Member</p>
+   # 插入一个标题
+  - align: left
+    content: Commitee1.md
+    more_info: >
+      <p class="Title-name">Master Committee Member</p>
 
 ---
+
+
+
 
 <style>
 /* 只在 people 页面生效 */

@@ -7,6 +7,21 @@ nav: true
 nav_order: 7
 
 photos:
+  - src: /assets/img/gallery/AGU025.jpg
+    alt: Presenting at AGU 2025
+    caption: Presenting at AGU 2025
+  - src: /assets/img/gallery/AI4CH4.jpg
+    alt: AI for natural methane workshop
+    caption: AI for natural methane workshop
+  - src: /assets/img/gallery/AI4CH4_2.jpg
+    alt: Presenting at AI for natural methane workshop
+    caption: Presenting at AI for natural methane workshop
+  - src: /assets/img/gallery/Isotope.jpg
+    alt: Visit INSTAAR Stable Isotope Lab
+    caption: Visit INSTAAR Stable Isotope Lab
+  - src: /assets/img/gallery/UHCC.jpg
+    alt: Site visit at UH Costal Center
+    caption: Site visit at UH Costal Center
   - src: /assets/img/gallery/AMS.jpg
     alt: Presenting at AMS 2025
     caption: Presenting at AMS 2025

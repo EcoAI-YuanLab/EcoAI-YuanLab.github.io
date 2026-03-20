@@ -8,12 +8,12 @@ display_categories: [Selected Projects]
 horizontal: false
 ---
 
-<img src="/assets/img/research_banner.png" alt="Research banner"
+<img src="/assets/img/research_banner2.png" alt="Research banner"
      style="width:100%; max-height:420px; object-fit:cover; border-radius:12px; margin-bottom:16px;">
 
 
 
-Ecosystems play a crucial role in climate regulation by mediating carbon, water, and energy exchanges with the atmosphere. At the same time, climate and human activities are reshaping ecosystem structure, composition, and functioning. We study how ecosystems respond to and influence climate dynamics and disturbances (e.g., wildfire, deforestation, flooding) through biogeochemical and biophysical processes. Our goal is to assess ecological and climate risks, and advance nature-based solutions to enhance ecosystem service benefits. 
+Ecosystems play a crucial role in climate regulation by mediating carbon, water, and energy exchanges with the atmosphere. At the same time, climate and human activities are reshaping ecosystem structure, composition, and functioning. We study how ecosystems respond to and influence climate dynamics and disturbances (e.g., wildfire, deforestation, flooding) through biogeochemical and biophysical processes. In parallel, we also investigate greenhouse gas dynamics from diverse sources in human systems. Our goal is to advance nature-based solutions to enhance ecosystem service and mitigate natural hazards and climate risks. 
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
