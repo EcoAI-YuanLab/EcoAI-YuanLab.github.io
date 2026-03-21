@@ -7,23 +7,32 @@ nav_order: 5
 ---
 
 
-We are recruiting a **fully funded Ph.D. student (Fall 2026)** and **a two-year Postdoctoral Scholar** to join the [EcoClimate AI Lab](https://ecoai-yuanlab.github.io/) in the [Department of Earth and Atmospheric Sciences](https://www.uh.edu/nsm/earth-atmospheric/index.php) at the [University of Houston](https://www.uh.edu/). Our lab investigates how ecosystems respond to climate dynamics and disturbances (e.g., wildfire, flooding, land-use and land-cover change) through the carbon-water-energy nexus, with a particular focus on wetlands and forests. Details about our research and open positions can be found on our lab website. Successful candidates will join a collaborative and interdisciplinary team, with opportunities to work closely with collaborators at Lawrence Berkeley National Laboratory, Stanford University, UT Austin, and beyond.
+<p>
+  <span style="color:#b22222; ">
+    🔔 Update (March 2026): One Ph.D. position has been filled. Currently, one Ph.D. position (RA) remains available.
+  </span>
+</p>
+
+We are recruiting **two fully funded Ph.D. students (Fall 2026)** and **a two-year Postdoctoral Scholar (flexible start date)** to join the [EcoClimate AI Lab](https://ecoai-yuanlab.github.io/) in the [Department of Earth and Atmospheric Sciences](https://www.uh.edu/nsm/earth-atmospheric/index.php) at the [University of Houston](https://www.uh.edu/). Our lab investigates how natural and human systems respond to and influence climate dynamics and disturbances (e.g., wildfire, flooding, drought, land-use and land-cover change). We aim to advance predictive understanding of ecosystem-climate-human interactions, enhance nature-based solutions, and mitigate natural hazards and climate risks. More information about our research can be found on our [lab website](https://ecoai-yuanlab.github.io/Research/). Successful candidates will join a collaborative and interdisciplinary team, with opportunities to work closely with collaborators at Lawrence Berkeley National Laboratory, Stanford University, UT Austin, and beyond.
 
 
-#### 🎓 **Ph.D. Student** 
+#### 🎓 **Ph.D. Student (Fall 2026)** 
 <p style="margin-bottom:0;">Preferred Qualifications:</p>
 <ul style="margin-top:0;">
     <li>Strong intellectual curiosity and self-motivation for scientific research.</li>
     <li>Proficiency in Python programming and familiarity with machine learning.</li>
-    <li>Interest in Earth and environmental sciences, atmospheric science, land-atmosphere interactions, ecosystem ecology, remote sensing, or GIS.</li>
+    <li>Interest in Earth and environmental sciences, atmospheric science, land-atmosphere interactions, ecosystem ecology, natural hazard, remote sensing, or GIS.</li>
 </ul>
 
-Applicants must meet UH Graduate School admission requirements (including TOEFL/IELTS for international applicants). For full consideration as a Research Assistantship (RA), we encourage you to contact Dr. Kunxiaojia Yuan at <u>kyuan@central.uh.edu</u>, as early as possible.
+Applicants must meet UH Graduate School admission requirements (including TOEFL/IELTS for international applicants). 
 
+We also encourage prospective students interested in <span style="font-weight:400;">
+  Spring 2027
+</span> Ph.D. admission to reach out early, as we are continuously building our research team.
 
 #### 🧑‍🔬 **Postdoc Position**
 
-The anticipated project duration is two years, with the possibility of extension depending on performance and funding availability. The start date is flexible, but no later than Fall 2026.
+The anticipated project duration is two years, with the possibility of extension depending on performance and funding availability. The start date is flexible.
 
 
 <p style="margin-bottom:0;">Potential Research Topics (not limited to):</p>
@@ -41,17 +50,21 @@ The anticipated project duration is two years, with the possibility of extension
 </ul>
 We welcome research ideas beyond these examples, as long as they align with the lab’s mission. The position allows flexibility for the researcher to shape the project direction based on their interests and expertise.
 
+#### 🚀 **Additional Opportunities**
+
+**We are continuously recruiting postdoctoral researchers, Ph.D. and M.S. students, undergraduate research assistants, and visiting students/scholars**. 
+
+If you are interested in joining the EcoClimate AI Lab in any capacity, please feel free to reach out to Dr. Kunxiaojia Yuan including your CV and a brief introduction of your background and research interests.
 
 #### 📬 **How to apply**
 <p style="margin-bottom:0;">Please email Dr. Kunxiaojia Yuan (<u>kyuan@central.uh.edu</u>) with <strong>a single PDF</strong> containing:</p>
 <ul style="margin-top:0;">
     <li>CV</li>
     <li>Transcript</li>
-    <li>Cover letter (1–2 pages) outlining your research experience, skills, and future interests</li>
+    <li>Cover letter (1-2 pages) outlining your research experience, skills, and future interests</li>
     <li>Contact information for three references. </li>
 </ul>
-Please indicate your name and the position you are applying for in the email subject line (e.g., [Your name] - [PhD or Postdoc Application]).
-Applications received by **November 9, 2025**, will receive full consideration. Review will continue until the position is filled. Competitive applicants will be guided through the formal application process via the University of Houston system.
+Please indicate your name and the position you are applying for in the email subject line (e.g., [Your name] - [PhD or Postdoc Application]). Review will continue until the position is filled. 
 
 
 #### 🏫 **About UH**
@@ -59,5 +72,5 @@ The [Department of Earth & Atmospheric Sciences](https://uh.edu/nsm/earth-atmosp
 
 
 <div style="text-align:center; margin-top:24px;">
-  <img src="/assets/img/UH.jpg" alt="UH campus" style="max-width:100%; border-radius:12px;">
+  <img src="/assets/img/UH4.jpg" alt="UH campus" style="max-width:100%; border-radius:12px;">
 </div>
