@@ -480,7 +480,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-why-methane-surged-in-the-atmosphere-during-the-early-2020s-has-been-published-in-science-which-is-reported-by-70-news-outlets",
           title: 'Our paper “Why methane surged in the atmosphere during the early 2020s” has...',
           description: "",
-          section: "News",},{id: "news-our-paper-the-underappreciated-importance-of-small-wetlands-in-global-methane-emissions-has-been-accepted-for-publication-in-nature-climate-change-looking-forward-to-seeing-it-online-soon",
+          section: "News",},{id: "news-our-paper-the-underappreciated-importance-of-small-wetlands-in-global-methane-emissions-has-been-published-in-nature-climate-change",
           title: 'Our paper, “The underappreciated importance of small wetlands in global methane emissions” has...',
           description: "",
           section: "News",},{id: "projects-human-induced-ghg-emissions",
