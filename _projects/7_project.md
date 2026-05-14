@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wetland Carbon Cycle
-description: We investigate wetland CO2 and CH4 dynamics at site, regional, and global scales. 
+title: Wetland Ecology and Nature-Based Solutions
+description: We aim to advance the understanding of wetland ecosystems and their role in nature-based solutions.
 img: assets/img/NCC-4.png
 importance: 0
 category: Selected Projects
