@@ -518,14 +518,14 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-wetland-carbon-cycle",
-          title: 'Wetland Carbon Cycle',
-          description: "We investigate wetland CO2 and CH4 dynamics at site, regional, and global scales.",
+            },},{id: "projects-wetland-ecology-and-nature-based-solutions",
+          title: 'Wetland Ecology and Nature-Based Solutions',
+          description: "We aim to advance the understanding of wetland ecosystems and their role in nature-based solutions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-land-atmosphere-interactions",
-          title: 'Land-Atmosphere Interactions',
-          description: "We study biophysical processes in water and energy cycles that affect temperature and water availability, and how they change under disturbances (e.g., deforestation, land cover change).",
+            },},{id: "projects-ecohydrology",
+          title: 'Ecohydrology',
+          description: "We study biophysical processes in water and energy cycles that affect temperature and water availability, and how they change under disturbances (e.g., drought, flooding, wildfire, land-use and land-cover change).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
