@@ -1,0 +1,3 @@
+Rijul Dimri is a Ph.D. candidate in the [Department of Earth and Atmospheric Sciences at the University of Houston](https://www.uh.edu/nsm/earth-atmospheric/), advised by [Prof. Yunsoo Choi](https://www.uh.edu/nsm/earth-atmospheric/people/faculty/yunsoo-choi/). His research focuses on developing interpretable and scalable AI frameworks for understanding and forecasting complex environmental processes.
+
+As a Summer Research Assistant in the EcoClimate AI Lab supervised by Dr. Yuan, Rijul is developing physics-informed AI models for hydrological extreme event prediction and process understanding, with an emphasis on improving model interpretability and scientific insight into flood dynamics.
