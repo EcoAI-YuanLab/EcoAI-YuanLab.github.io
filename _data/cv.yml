@@ -72,18 +72,17 @@
 - title: "Service"
   type: nested_list
   contents:
-    - title: "Session Chair & Convenor, AGU Session B51P & B52D (2025)"
+    - title: "Session Chair & Convenor, "
       items:
-      - "Warming-Induced Emissions: Integrating Models and Observations to Advance Understanding of Greenhouse Gas Fluxes of Natural Systems and Climate Feedbacks"
-    - title: "Convenor, EGU Session AS5 & BG9 (2025)"
-      items:
-        - "Machine learning for Carbon Cycle Research"
+        - "AGU Session B51P & B52D (2025), Warming-Induced Emissions: Integrating Models and Observations to Advance Understanding of Greenhouse Gas Fluxes of Natural Systems and Climate Feedbacks"
+        - "EGU Session AS5 & BG9 (2025), Machine learning for Carbon Cycle Research"
+        - "AGU Session B41M & B43D (2024), The Global Methane Budget and Advancing Understanding of Wetland Greenhouse Gas Emissions"
+
     - title: "Workshop Organizer (2025)"
       items:
-        - "Bridging the Gap – Flux Data Meets Land Surface Models"
-    - title: "Session Chair & Convenor, AGU Session B41M & B43D (2024)"
-      items:
-        - "The Global Methane Budget and Advancing Understanding of Wetland Greenhouse Gas Emissions"
+        - "Bridging the Gap – Flux Data Meets Land Surface Models (2025)" 
+        - "AmeriFlux Early Career Networking Workshop (2024)"
+
     - title: "Reviewer"
       items:
         - "ICLR 2025 (top-tier ML conference)"
@@ -91,9 +90,6 @@
     - title: "Committee Member"
       items:
         - "FLUXNET Early Career Scientist Network (2024–present)"
-    - title: "Workshop Organizer"
-      items:
-        - "AmeriFlux Early Career Networking Workshop (2024)"
     - title: "Judge"
       items:
         - "AMS Student Presentation Competitions (2023–present)"

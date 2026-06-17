@@ -20,8 +20,8 @@ photos:
     alt: Visit INSTAAR Stable Isotope Lab
     caption: Visit INSTAAR Stable Isotope Lab
   - src: /assets/img/gallery/UHCC.jpg
-    alt: Site visit at UH Costal Center
-    caption: Site visit at UH Costal Center
+    alt: Site visit at UH Coastal Center
+    caption: Site visit at UH Coastal Center
   - src: /assets/img/gallery/AMS.jpg
     alt: Presenting at AMS 2025
     caption: Presenting at AMS 2025
@@ -80,9 +80,6 @@ photos:
     alt: With Methane Friends   
     caption: With Methane Friends   
 
-  - src: /assets/img/gallery/Stanford.jpg
-    alt: Stanford corridor
-    caption: At Stanford
   - src: /assets/img/gallery/Yosemite1.jpg
     alt: At Yosemite
     caption: At Yosemite

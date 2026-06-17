@@ -12,6 +12,10 @@ Neurocomputing:
   color: "#9CCC65"
   url: "https://www.sciencedirect.com/journal/neurocomputing"
 
+ESSD:
+  color: "#9CCC65"
+  url: "https://www.earth-system-science-data.net/"
+
 
 PNAS Nexus:
   color: "#FFB300"
