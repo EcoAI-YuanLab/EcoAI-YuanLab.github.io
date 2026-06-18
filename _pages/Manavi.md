@@ -1,0 +1,3 @@
+Manavi Gupta is an undergraduate student in [Civil and Environmental Engineering at the University of Houston](https://www.cive.uh.edu/). She is passionate about environmental sustainability and is particularly interested in environmental remediation, ecosystem restoration, and nature-based solutions. Her interests center on understanding the interactions between environmental systems and societal challenges.
+
+Mentored by Dr. Yuan, she is currently conducting research on coastal ecosystem dynamics and resilience.

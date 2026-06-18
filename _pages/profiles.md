@@ -70,19 +70,19 @@ profiles:
         Rijul Dimri
       </p>
 
-#  # 插入一个标题
-#   - align: left
-#     more_info: >
-#       <p class="Title-name">Undergraduates</p>
+ # 插入一个标题
+  - align: left
+    more_info: >
+      <p class="Title-name">Undergraduates</p>
 
-#   - align: left
-#     image: Manavi.jpg
-#     content: Xiaofan.md
-#     image_circular: true # crops the image to make it circular
-#     more_info: >
-#       <p style="font-family: Georgia, serif; font-size: 18px; ">
-#         Xiaofan Shen
-#       </p>
+  - align: left
+    image: Manavi.jpg
+    content: Manavi.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p style="font-family: Georgia, serif; font-size: 18px; ">
+        Manavi Gupta
+      </p>
 
  # 插入一个标题
   - align: left
