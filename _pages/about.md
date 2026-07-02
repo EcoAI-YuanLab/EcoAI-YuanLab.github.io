@@ -47,7 +47,7 @@ announcements:
 
 ### Welcome to EcoClimate AI Lab! 
 
-📢📢**We are recruiting Ph.D. students and postdocs!**  If you are interested in joining us, please **[click here](https://ecoai-yuanlab.github.io/Opportunities/)** for details, and contact Dr. Kunxiaojia (Tammy) Yuan at <u>kyuan@central.uh.edu</u> with your CV, transcript, and a brief statement of your research experience and interests.
+📢📢**We are recruiting Ph.D. students (start in 2027)!**  If you are interested in joining us, please **[click here](https://ecoai-yuanlab.github.io/Opportunities/)** for details, and contact Dr. Kunxiaojia (Tammy) Yuan at <u>kyuan@central.uh.edu</u> with your CV, transcript, and a brief statement of your research experience and interests.
 
 ### About the Lab
 
