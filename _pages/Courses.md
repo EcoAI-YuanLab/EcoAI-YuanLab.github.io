@@ -45,27 +45,27 @@ Gordon B. Bonan, *Ecological Climatology: Concepts and Applications* (3rd Ed.)
 
 
 <br>
-#### 🌍 **GEOL 1302/1102 Introduction to Global Climate Change**
+#### 🌍 **GEOL 1302/1102 Introduction to Climate Science**
 
-What is climate change, and what drives it? What are the potential impacts and risks associated with climate change? What can we do about climate change now and in the future? This course introduces the fundamentals of the Earth’s climate system and the science of modern climate change. We will explore how the atmosphere and oceans circulate energy around the planet, how climate is observed from ground measurements and satellites, and how greenhouse gases regulate Earth’s temperature. Students will also learn how scientists reconstruct past climates and use multiple lines of evidence to understand long-term climate change.
-Beyond the science, the course examines human influences on climate and the risks posed to ecosystems and society. We will also discuss national and global responses, including strategies for mitigation and adaptation.
+Utilizes scientific methods to analyze data and observations relevant to Earth’s climate system, including historical climate records and climate models. Examines the physical processes and interactions among the atmosphere, oceans, land, and ice, as well as the roles of greenhouse gases, solar radiation, and orbital variations in influencing Earth’s climate.
 
 <p style="margin-bottom:0;font-weight:500;">Textbook:</p>
-Dessler, Andrew E. *Introduction to modern climate change*. Cambridge University Press, 2021.
+Chad M. Kauffman – American Meteorological Society, *Our Changing Climate: Introduction to Climate Science*. American Meteorological Society, 2015.
 
 <p style="margin-bottom:0;font-weight:500;">Lecture Topics:</p>
 
 <p style="margin-bottom:0;">This course will include the following topical (content) areas:</p>
 <ul style="margin-top:0;">
-    <li>An introduction to the Climate System</li>
-    <li>Is the Climate Changing？</li>
-    <li>Radiation and Energy Balance </li>
-    <li>A Simple Climate Model</li>
+    <li>Earth’s Climate as a Dynamic System</li>
+    <li>Observations of Earth’s Climate System</li>
+    <li>Tools for Investigating Earth’s Climate</li>
+    <li>Radiation and Energy Balance</li>
+    <li>Water in Earth’s Climate System</li>
+    <li>Global Atmospheric Circulations</li>
+    <li>Atmosphere-Ocean Relationships</li>
     <li>The Carbon Cycle</li>
-    <li>Forcing, Feedbacks, and Climate Sensitivity</li>
-    <li>Why is the Climate Changing？</li>
-    <li>Prediction of Future Climate Change</li>
-    <li>Impacts of Climate Change</li>
-    <li>Exponential Growth</li>
-    <li>Mitigation and Adaption Strategies</li>
+    <li>Forcings and Feedbacks in the Climate System</li>
+    <li>Paleoclimate Analysis and Historical Climate Variation</li>
+    <li>Climate Modeling and Future Projections</li>
+    <li>Impacts and Adaptations to Climate Variation</li>
 </ul>
