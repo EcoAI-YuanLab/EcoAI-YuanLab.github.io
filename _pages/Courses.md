@@ -8,7 +8,7 @@ nav_order: 5
 
 
 
-#### 🌱 **GEOL 4397/6397 Land-Atmosphere Interactions: From Soil to Sky** 
+#### 🌱 **GEOL 4325/6397 Land-Atmosphere Interactions: From Soil to Sky** 
 
 
 How does the atmosphere interact with land surface? Why do these interactions matter, and how do they shape weather extremes, climate feedbacks, ecosystem dynamics, and the future of human systems? This course explores the dynamic exchange of energy, water, and carbon between the land and the atmosphere —from soils, vegetation, and water at the surface to boundary-layer processes and global climate responses. 
@@ -68,4 +68,28 @@ Chad M. Kauffman – American Meteorological Society, *Our Changing Climate: Int
     <li>Paleoclimate Analysis and Historical Climate Variation</li>
     <li>Climate Modeling and Future Projections</li>
     <li>Impacts and Adaptations to Climate Variation</li>
+</ul>
+
+
+<br>
+#### 🌊 **GEOL 4397 Coastal Systems, Extremes, and Resilience**
+
+This course introduces introduces coastal systems within the Earth system framework, including coastal weather, hydrology, ecosystems, and biogeochemical cycles. Examines extreme events such as hurricanes, flooding, and compound hazards, as well as urban-coastal interactions, adaptation strategies, and nature-based solutions for coastal resilience. The course incorporates real-world case studies from the Texas coast and other regions.
+
+<p style="margin-bottom:0;font-weight:500;">Lecture Topics:</p>
+
+<p style="margin-bottom:0;">This course will include the following topical (content) areas:</p>
+<ul style="margin-top:0;">
+    <li>Introduction: Coastal Systems in the Earth System</li>
+    <li>Coastal Weather Systems & Energy-Water Exchanges</li>
+    <li>Coastal Hydrology & Estuarine Dynamics</li>
+    <li>Coastal Ecosystems</li>
+    <li>Biogeochemical Cycles</li>
+    <li>Water Quality & Pollution</li>
+    <li>Climate Dynamics and Coastal Systems</li>
+    <li>Sea-Level Rise & Vertical Land Motion</li>
+    <li>Hurricanes, Flooding & Compound Events</li>
+    <li>Urbanization & Urban-Coastal Interactions</li>
+    <li>Adaptation & Coastal Resilience</li>
+    <li>Nature-Based Solutions & Integrated Resilience</li>
 </ul>

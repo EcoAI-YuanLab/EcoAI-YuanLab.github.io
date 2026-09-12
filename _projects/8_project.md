@@ -3,7 +3,7 @@ layout: page
 title: Ecohydrology
 description: We study biophysical processes in water and energy cycles that affect temperature and water availability, and how they change under disturbances (e.g., drought, flooding, wildfire, land-use and land-cover change).
 img: assets/img/BGP-6.jpg
-importance: 2
+importance: 5
 category: Selected Projects
 giscus_comments: false
 related_publications: false

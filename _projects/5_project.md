@@ -15,11 +15,25 @@ Wildfires are occurring with increasing frequency and severity worldwide, leadin
     <img src="/assets/img/Presentation1-ezgif.com-video-to-gif-converter.gif"
          alt="Wildfire animation"
          class="img-fluid rounded z-depth-1"
-         style="max-width: 100%; height: auto;" />
+         style="width: 100%; height: auto; display: block;" />
+  </div>
+</div>
+
+<div class="caption">
+  Model structure (left) and large fire probability in western US (right).
+  Details can be seen in our <em>Earth's Future</em> paper.
+</div>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/FireTalk.png"
+         alt="Wildfire lightning talk"
+         class="img-fluid rounded z-depth-1"
+         style="width: 100%; height: auto; display: block;" />
   </div>
 </div>
 <div class="caption">
-  Model structure (left) and large fire probability in western US (right). Details can be seen in our <em>Earth's Future</em> paper. 
+  Cover slide from the 2026 EAS Faculty Lightning Talk (1st place winner). See our Earth’s Future paper for details.
 </div>
 
 ## Related publications:
