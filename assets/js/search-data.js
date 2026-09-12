@@ -476,6 +476,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-the-underappreciated-importance-of-small-wetlands-in-global-methane-emissions-has-been-published-in-nature-climate-change",
           title: 'Our paper, “The underappreciated importance of small wetlands in global methane emissions” has...',
           description: "",
+          section: "News",},{id: "news-xiaofan-shen-and-jasmine-miao-have-joined-our-lab-as-ph-d-students-welcome-to-the-team",
+          title: 'Xiaofan Shen and Jasmine Miao have joined our lab as Ph.D. students. Welcome...',
+          description: "",
+          section: "News",},{id: "news-had-a-great-time-sharing-our-work-on-ai-for-wildfire-modeling-at-this-year-s-eas-faculty-lightning-talk-and-was-pleasantly-surprised-to-take-home-the-stuffed-shasta-uh-s-cougar-mascot-for-first-place",
+          title: 'Had a great time sharing our work on AI for wildfire modeling at...',
+          description: "",
           section: "News",},{id: "projects-human-induced-ghg-emissions",
           title: 'Human-induced GHG emissions',
           description: "We integrate multi-modal observations to better understand human-induced GHG emissions across diverse sources.",
@@ -486,8 +492,8 @@ ninja.data = [{
           description: "We develop interpretable AI and causal inference approaches to understand the complex Earth system.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-coastal-resiliency",
-          title: 'Coastal Resiliency',
+            },},{id: "projects-coastal-resilience",
+          title: 'Coastal Resilience',
           description: "We monitor and analyze ecological and hydrologial dynamics of coastal ecosystems, to support more informed and sustainable coastal restoration and nature-based climate solutions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
