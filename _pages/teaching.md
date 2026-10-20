@@ -8,12 +8,12 @@ nav_order: 5
 
 
 
-We are recruiting **a fully funded Ph.D. student (start in 2027 Spring)** to join the [EcoClimate AI Lab](https://ecoai-yuanlab.github.io/) in the [Department of Earth and Atmospheric Sciences](https://www.uh.edu/nsm/earth-atmospheric/index.php) at the [University of Houston](https://www.uh.edu/). We are particularly seeking candidates interested in **applying advanced artificial intelligence (AI) methods to environmental and Earth system science**.
+We are recruiting **a fully funded Ph.D. student (start in 2027 Fall)** to join the [EcoClimate AI Lab](https://ecoai-yuanlab.github.io/) in the [Department of Earth and Atmospheric Sciences](https://www.uh.edu/nsm/earth-atmospheric/index.php) at the [University of Houston](https://www.uh.edu/). We are particularly seeking candidates interested in **applying advanced artificial intelligence (AI) methods to environmental and Earth system science**.
 
 Our lab investigates how terrestrial and coastal ecosystems respond to climate dynamics and disturbances (e.g., wildfire, flooding, drought, land-use and land-cover change) through carbon, water, energy, and nutrient cycles. We aim to advance predictive understanding of ecosystem-climate-human interactions, enhance nature-based solutions, and mitigate natural hazards and climate risks. More information about our research can be found on our [lab website](https://ecoai-yuanlab.github.io/Research/). The successful candidate will join a collaborative and interdisciplinary team, with opportunities to work closely with collaborators at Lawrence Berkeley National Laboratory, Stanford University, UT Austin, and beyond.
 
 
-#### 🎓 **Ph.D. Student (Spring 2027)** 
+#### 🎓 **Ph.D. Student (Fall 2027)** 
 <p style="margin-bottom:0;">Preferred Qualifications:</p>
 <ul style="margin-top:0;">
     <li>Proficiency in Python programming and ML/AI. Prior experience applying ML/AI to remote sensing, geospatial, or environmental data is highly desirable.</li>
@@ -32,14 +32,9 @@ Applicants must meet UH Graduate School admission requirements (including TOEFL/
     <li>Contact information for three references. </li>
     <li>TOEFL/IELTS transcript (required for international applicants). </li>
 </ul>
-Applications received by **August 21, 2026**, will receive full consideration. Review will continue until the position is filled. Applications will be reviewed on a rolling basis, and early submission is encouraged.
+Applications received by **November 20, 2026**, will receive full consideration. Review will continue until the position is filled. Applications will be reviewed on a rolling basis, and early submission is encouraged.
 
 **Due to the high volume of applications, we may only be able to contact candidates selected for further consideration.** Thank you for your understanding.
-
-#### 🚀 **Additional Opportunities**
-
-We are continuously recruiting postdoctoral researchers, Ph.D. and M.S. students, undergraduate research assistants, and visiting students/scholars. If you are interested in joining the EcoClimate AI Lab in any capacity, please feel free to reach out to Dr. Kunxiaojia Yuan including your CV and a brief introduction of your background and research interests.
-
 
 
 #### 🏫 **About UH**

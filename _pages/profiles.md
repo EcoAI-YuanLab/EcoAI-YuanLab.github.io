@@ -59,10 +59,10 @@ profiles:
   # 插入一个标题
   - align: left
     more_info: >
-      <p class="Title-name">Summer RA</p>
+      <p class="Title-name">Postdocs</p>
 
   - align: left
-    image: Rijul.jpg
+    image: Rijul2.jpg
     content: Rijul.md
     image_circular: true # crops the image to make it circular
     more_info: >
