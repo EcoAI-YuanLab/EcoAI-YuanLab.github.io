@@ -8,7 +8,7 @@ nav_order: 5
 
 
 
-We are recruiting **1-2 fully funded Ph.D. students (start in 2027 Fall)** to join the [EcoClimate AI Lab](https://ecoai-yuanlab.github.io/) in the [Department of Earth and Atmospheric Sciences](https://www.uh.edu/nsm/earth-atmospheric/index.php) at the [University of Houston](https://www.uh.edu/). We are particularly seeking candidates interested in **applying advanced artificial intelligence (AI) methods to environmental and Earth system science**.
+We are recruiting **two fully funded Ph.D. students (start in 2027 Fall)** to join the [EcoClimate AI Lab](https://ecoai-yuanlab.github.io/) in the [Department of Earth and Atmospheric Sciences](https://www.uh.edu/nsm/earth-atmospheric/index.php) at the [University of Houston](https://www.uh.edu/). We are particularly seeking candidates interested in **applying advanced artificial intelligence (AI) methods to environmental and Earth system science**.
 
 Our lab investigates how terrestrial and coastal ecosystems respond to climate dynamics and disturbances (e.g., wildfire, flooding, drought, land-use and land-cover change) through carbon, water, energy, and nutrient cycles. We aim to advance predictive understanding of ecosystem-climate-human interactions, enhance nature-based solutions, and mitigate natural hazards and climate risks. More information about our research can be found on our [lab website](https://ecoai-yuanlab.github.io/Research/). Successful candidates will join a collaborative and interdisciplinary team, with opportunities to work closely with collaborators at Lawrence Berkeley National Laboratory, Stanford University, UT Austin, and beyond.
 
